@@ -1,0 +1,17 @@
+game1/GTN_Greek_edition.spec
+game1/build/GTN_Greek_edition/Analysis-00.toc
+game1/build/GTN_Greek_edition/base_library.zip
+game1/build/GTN_Greek_edition/EXE-00.toc
+game1/build/GTN_Greek_edition/GTN_Greek_edition.exe.manifest
+game1/build/GTN_Greek_edition/GTN_Greek_edition.pkg
+game1/build/GTN_Greek_edition/PKG-00.toc
+game1/build/GTN_Greek_edition/PYZ-00.pyz
+game1/build/GTN_Greek_edition/PYZ-00.toc
+game1/build/GTN_Greek_edition/warn-GTN_Greek_edition.txt
+game1/build/GTN_Greek_edition/xref-GTN_Greek_edition.html
+game1/build/GTN_Greek_edition/localpycs/pyimod01_archive.pyc
+game1/build/GTN_Greek_edition/localpycs/pyimod02_importers.pyc
+game1/build/GTN_Greek_edition/localpycs/pyimod03_ctypes.pyc
+game1/build/GTN_Greek_edition/localpycs/pyimod04_pywin32.pyc
+game1/build/GTN_Greek_edition/localpycs/struct.pyc
+game1/dist/GTN_Greek_edition.exe
