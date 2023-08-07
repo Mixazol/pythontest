@@ -4,6 +4,7 @@ name = input("Γραψε το ονομα σου εδω: ")
 playing=True
 while playing:
     thenumber = random.randint(1,50)
+    print("Γεια χαρα ",name,",")
     print("Θα σκεφτω εναν αριθμο απο το 1 εως το 50")
     print("Εισαι αρκετα εξυπνος για να τον βρεις?")
     tries = 0

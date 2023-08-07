@@ -4,6 +4,7 @@ name = input("Type yor name here: ")
 playing=True
 while playing:
     thenumber = random.randint(1,200)
+    print("Hello ",name,",")
     print("I think of a random number from 1 to 50")
     print("Are you smart enough to guess it?")
     tries = 0
