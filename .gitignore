@@ -1,3 +1,5 @@
+game1/build/
+game1/dist/
 game1/GTN_Greek_edition.spec
 game1/build/GTN_Greek_edition/Analysis-00.toc
 game1/build/GTN_Greek_edition/base_library.zip
@@ -15,3 +17,8 @@ game1/build/GTN_Greek_edition/localpycs/pyimod03_ctypes.pyc
 game1/build/GTN_Greek_edition/localpycs/pyimod04_pywin32.pyc
 game1/build/GTN_Greek_edition/localpycs/struct.pyc
 game1/dist/GTN_Greek_edition.exe
+game1/GTN_hard.spec
+game1/GTN_easy.spec
+game1/GTN_Very_easy.spec
+game1/guess_the_number.spec
+game1/GTN_ Very_hard.spec
